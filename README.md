@@ -12,3 +12,4 @@ Hi, I'm @jdrurbaniak
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdrurbaniak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/jdrurbaniak/jdrurbaniak/blob/output/github-snake-dark.svg)
